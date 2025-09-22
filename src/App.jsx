@@ -80,7 +80,7 @@ export default function App() {
             <span className="title-accent rotating-star">★</span>
           </h1>
           <h2 className="restaurant-name holographic-text">
-            Welcome to <span className="brand-highlight magical-text">ENIGMA EMPORIUM</span>
+            Welcome to <span className="brand-highlight magical-text">ELITE CUSINE</span>
           </h2>
           <div className="star-constellation">
             <span className="constellation-star star-1">★</span>
